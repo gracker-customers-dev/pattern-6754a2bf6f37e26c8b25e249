@@ -1,0 +1,57 @@
+projectName: >-
+  Hashing algorithms, why they are useful for password hashing and how do they
+  compare with each other
+jsonFilePath: ./input.json
+baseUrl: https://guptadeepak.com
+portalHeading: Hashing Algorithms Portal
+portalDescription: >-
+  Explore the significance of hashing algorithms in password security and their
+  comparative analysis.
+portalTitle: Understanding Hashing Algorithms
+searchPlaceholder: Search for hashing algorithms...
+useAlphabetsCategory: true
+homeLink: https://guptadeepak.com/
+logoLink: https://guptadeepak.com/
+ctaText: Get Started
+aboutLink: https://guptadeepak.com/about
+productsLink: https://guptadeepak.com/products
+logoImgUrl: https://guptadeepak.com/logo.png
+ctaLink: https://guptadeepak.com/get-started
+copyrightText: © 2023 Gupta Deepak. All rights reserved.
+faviconUrl: https://guptadeepak.com/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/YourTwitterHandle
+  - platform: LinkedIn
+    url: https://linkedin.com/in/YourLinkedInProfile
+theme:
+  primaryColor: '#3498db'
+  secondaryColor: '#2ecc71'
+  backgroundColor: '#ecf0f1'
+  textColor: '#2c3e50'
+  accentColor: '#e74c3c'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Helvetica
+    weights:
+      - 500
+      - 600
+      - 700
